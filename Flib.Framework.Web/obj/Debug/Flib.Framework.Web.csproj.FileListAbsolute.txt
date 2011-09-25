@@ -1,0 +1,10 @@
+C:\Flib\Framework\Web\Flib.Framework.Web\Flib.Framework.Web\bin\Debug\Flib.Framework.Web.dll
+C:\Flib\Framework\Web\Flib.Framework.Web\Flib.Framework.Web\bin\Debug\Flib.Framework.Web.pdb
+C:\Flib\Framework\Web\Flib.Framework.Web\Flib.Framework.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Flib\Framework\Web\Flib.Framework.Web\Flib.Framework.Web\obj\Debug\Flib.Framework.Web.dll
+C:\Flib\Framework\Web\Flib.Framework.Web\Flib.Framework.Web\obj\Debug\Flib.Framework.Web.pdb
+C:\Flib\Framework\Flib.Framework\Flib.Framework.Web\bin\Debug\Flib.Framework.Web.dll
+C:\Flib\Framework\Flib.Framework\Flib.Framework.Web\bin\Debug\Flib.Framework.Web.pdb
+C:\Flib\Framework\Flib.Framework\Flib.Framework.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Flib\Framework\Flib.Framework\Flib.Framework.Web\obj\Debug\Flib.Framework.Web.dll
+C:\Flib\Framework\Flib.Framework\Flib.Framework.Web\obj\Debug\Flib.Framework.Web.pdb

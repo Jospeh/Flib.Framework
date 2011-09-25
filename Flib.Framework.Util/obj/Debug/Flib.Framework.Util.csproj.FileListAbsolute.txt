@@ -1,0 +1,5 @@
+C:\Flib\Framework\Flib.Framework\Flib.Framework.Util\bin\Debug\Flib.Framework.Util.dll
+C:\Flib\Framework\Flib.Framework\Flib.Framework.Util\bin\Debug\Flib.Framework.Util.pdb
+C:\Flib\Framework\Flib.Framework\Flib.Framework.Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Flib\Framework\Flib.Framework\Flib.Framework.Util\obj\Debug\Flib.Framework.Util.dll
+C:\Flib\Framework\Flib.Framework\Flib.Framework.Util\obj\Debug\Flib.Framework.Util.pdb

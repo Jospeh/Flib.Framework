@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="B26E2547-617A-4F97-B8E0-052F393674DB" ModuleId="Flib.Framework.Web.Tests" />
+  <Module PersistentId="8C6031F7-D917-40DA-A6F4-3F93A9014F5E" ModuleId="Flib.Framework.Util_1" />
+  <Module PersistentId="B7825D16-959C-4213-9667-069EF83B5845" ModuleId="Flib.Framework.Web" />
+  <Module PersistentId="491F663B-61B4-4AA4-AE96-0C2A9B481BC8" ModuleId="Flib.Framework.Web.Spike" />
+</Modules>

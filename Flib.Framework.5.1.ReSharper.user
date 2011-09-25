@@ -1,0 +1,174 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="18" />
+      <Item value="void" priority="10" />
+      <Item value="object" priority="4" />
+      <Item value="null" priority="3" />
+      <Item value="target" priority="11" />
+      <Item value="using" priority="0" />
+      <Item value="o" priority="2" />
+      <Item value="string" priority="12" />
+      <Item value="result" priority="4" />
+      <Item value="class" priority="0" />
+      <Item value="return" priority="6" />
+      <Item value="new" priority="6" />
+      <Item value="TestTarget" priority="2" />
+      <Item value="Assert`0" priority="4" />
+      <Item value="IDictionary" priority="0" />
+      <Item value="TearDownAttribute`0" priority="0" />
+      <Item value="TestTarget`0" priority="1" />
+      <Item value="t" priority="5" />
+      <Item value="default" priority="2" />
+      <Item value="int" priority="4" />
+      <Item value="if" priority="1" />
+      <Item value="where" priority="2" />
+      <Item value="TTarget`0" priority="2" />
+      <Item value="WeakReference`0" priority="0" />
+      <Item value="getValue" priority="1" />
+      <Item value="static" priority="1" />
+      <Item value="OrderedParallelQuery" priority="0" />
+      <Item value="this" priority="1" />
+      <Item value="TResult`0" priority="0" />
+      <Item value="replacement" priority="0" />
+      <Item value="GetValueOrDefault`2" priority="0" />
+      <Item value="Test`0" priority="0" />
+      <Item value="Repeater`0" priority="0" />
+      <Item value="foreach" priority="5" />
+      <Item value="repeater" priority="1" />
+      <Item value="item" priority="0" />
+      <Item value="control" priority="0" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="yield return" priority="1" />
+      <Item value="nestedRepeater" priority="0" />
+      <Item value="nestedControl" priority="0" />
+      <Item value="T`0" priority="1" />
+      <Item value="Action`0" priority="0" />
+      <Item value="Test" priority="1" />
+      <Item value="private" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="_repeater" priority="4" />
+      <Item value="FakeUserControlWithList`0" priority="1" />
+      <Item value="controlCount" priority="0" />
+      <Item value="rptRepeater" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="SetUp" priority="0" />
+      <Item value="List&lt;FakeUserControlWithList&gt;" priority="0" />
+      <Item value="FakeUserControlWithList" priority="1" />
+      <Item value="PartialComparerTests`0" priority="0" />
+      <Item value="first" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="IsNull`2" priority="1" />
+      <Item value="ToString`0" priority="1" />
+      <Item value="GetType`0" priority="1" />
+      <Item value="GetValueOrDefault`2" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="AreEqual`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Flib.Framework.Web.Tests.Util.TestTarget">
+      <Item value="IsNull`2" priority="1" />
+      <Item value="PropertyOnTarget" priority="1" />
+      <Item value="GetValueOrDefault`2" priority="1" />
+      <Item value="Get`2" priority="0" />
+      <Item value="StringOnTarget" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:">
+      <Item value="Equals`0" priority="2" />
+      <Item value="IsNull`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Object">
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Or`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Repeater">
+      <Item value="Items" priority="0" />
+      <Item value="GetControlsOfType`1" priority="0" />
+      <Item value="ForEachNestedRepeater`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Flib.Framework.Web.Controls.FlibRepeater">
+      <Item value="Items" priority="1" />
+      <Item value="DataSource" priority="0" />
+      <Item value="DataBind`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Flib.Framework.Tests.Web.Controls.FakeUserControlWithList">
+      <Item value="ReadStringResource`0" priority="0" />
+      <Item value="GetDataSource`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Flib.Framework.Util.PartialComparer">
+      <Item value="Compare`1" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="409" fromTop="13" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Web/d:Controls/f:FlibRepeaterTests.cs" caret="1492" fromTop="10" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Controls/f:FlibRepeater.cs" caret="0" fromTop="0" />
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/d:FakeUserControls/f:FakeProductList.ascx.cs" caret="749" fromTop="13" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:MVP/f:IView.cs" caret="169" fromTop="9" />
+      <File id="8C6031F7-D917-40DA-A6F4-3F93A9014F5E/f:ExtensionT.cs" caret="578" fromTop="15" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:MVP/f:Presenter.cs" caret="367" fromTop="18" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Web/f:BasePresenterFixture.cs" caret="1076" fromTop="22" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Util/f:ExtensionsTTests.cs" caret="240" fromTop="10" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Util/f:PartialComparerTests.cs" caret="407" fromTop="18" />
+      <File id="8C6031F7-D917-40DA-A6F4-3F93A9014F5E/f:PartialComparer.cs" caret="604" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="948" fromTop="19" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="1200" fromTop="26" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="350" fromTop="8" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Web/d:Controls/f:FlibRepeaterTests.cs" caret="2148" fromTop="10" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Web/d:Controls/f:FlibRepeaterTests.cs" caret="2148" fromTop="11" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Web/d:Controls/f:FlibRepeaterTests.cs" caret="2148" fromTop="23" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Web/d:Controls/f:FlibRepeaterTests.cs" caret="2148" fromTop="25" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Web/d:Controls/f:FlibRepeaterTests.cs" caret="2148" fromTop="20" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Web/d:Controls/f:FlibRepeaterTests.cs" caret="854" fromTop="3" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Util/f:ExtensionsTTests.cs" caret="1913" fromTop="30" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Web/d:Controls/f:FlibRepeaterTests.cs" caret="145" fromTop="4" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Web/f:BasePresenterFixture.cs" caret="944" fromTop="17" />
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/d:FakeUserControls/f:FakeProductList.ascx.cs" caret="749" fromTop="13" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Web/d:Controls/f:FlibRepeaterTests.cs" caret="1338" fromTop="3" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Web/d:Controls/f:FlibRepeaterTests.cs" caret="1684" fromTop="14" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Web/d:Controls/f:FlibRepeaterTests.cs" caret="1576" fromTop="9" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Web/d:Controls/f:FlibRepeaterTests.cs" caret="378" fromTop="10" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Web/d:Controls/f:FlibRepeaterTests.cs" caret="2069" fromTop="21" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Web/d:Controls/f:FlibRepeaterTests.cs" caret="1842" fromTop="15" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Web/d:Controls/f:FlibRepeaterTests.cs" caret="596" fromTop="7" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="2858" fromTop="22" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="2858" fromTop="2" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Web/f:BasePresenterFixture.cs" caret="1076" fromTop="22" />
+      <File id="8C6031F7-D917-40DA-A6F4-3F93A9014F5E/f:PartialComparer.cs" caret="712" fromTop="17" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Util/f:PartialComparerTests.cs" caret="478" fromTop="17" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Util/f:PartialComparerTests.cs" caret="478" fromTop="19" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Util/f:ExtensionsTTests.cs" caret="247" fromTop="11" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Util/f:PartialComparerTests.cs" caret="90" fromTop="1" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Util/f:PartialComparerTests.cs" caret="336" fromTop="12" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Util/f:ExtensionsTTests.cs" caret="247" fromTop="11" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

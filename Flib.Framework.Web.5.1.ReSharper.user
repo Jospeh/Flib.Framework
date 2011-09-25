@@ -1,0 +1,250 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="17" />
+      <Item value="Table`0" priority="5" />
+      <Item value="Action`0" priority="10" />
+      <Item value="T`0" priority="12" />
+      <Item value="foreach" priority="7" />
+      <Item value="item" priority="7" />
+      <Item value="control" priority="2" />
+      <Item value="as" priority="3" />
+      <Item value="if" priority="5" />
+      <Item value="where" priority="3" />
+      <Item value="t" priority="1" />
+      <Item value="action" priority="5" />
+      <Item value="var" priority="8" />
+      <Item value="List" priority="5" />
+      <Item value="Items" priority="4" />
+      <Item value="somstuff" priority="0" />
+      <Item value="items" priority="0" />
+      <Item value="morestuff" priority="1" />
+      <Item value="i" priority="3" />
+      <Item value="itemsOfT" priority="0" />
+      <Item value="new" priority="5" />
+      <Item value="List&lt;T&gt;" priority="0" />
+      <Item value="list" priority="0" />
+      <Item value="void" priority="8" />
+      <Item value="FlibRepeaterTests`0" priority="0" />
+      <Item value="FlibRepeater" priority="0" />
+      <Item value="repeater" priority="5" />
+      <Item value="class" priority="2" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="f" priority="0" />
+      <Item value="Assert`0" priority="2" />
+      <Item value="repeaterItems" priority="2" />
+      <Item value="FakeUserControlWithList`0" priority="0" />
+      <Item value="controls" priority="2" />
+      <Item value="fakeUserControlWithList" priority="0" />
+      <Item value="string" priority="2" />
+      <Item value="AppDomainSetup`0" priority="1" />
+      <Item value="int" priority="2" />
+      <Item value="lblPrice" priority="1" />
+      <Item value="ValueType`0" priority="0" />
+      <Item value="lblProductTitle" priority="0" />
+      <Item value="value" priority="1" />
+      <Item value="ctor" priority="0" />
+      <Item value="abstract" priority="0" />
+      <Item value="TView`0" priority="1" />
+      <Item value="protected" priority="1" />
+      <Item value="assembly" priority="0" />
+      <Item value="Scan`0" priority="0" />
+      <Item value="object" priority="1" />
+      <Item value="p" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="Presenter" priority="2" />
+      <Item value="BootStrapper`0" priority="0" />
+      <Item value="FlibPage" priority="0" />
+      <Item value="IFakeProductView`0" priority="1" />
+      <Item value="e" priority="3" />
+      <Item value="Item" priority="0" />
+      <Item value="FakeUILister`0" priority="2" />
+      <Item value="fkLister" priority="2" />
+      <Item value="View`0" priority="0" />
+      <Item value="viewModel" priority="1" />
+      <Item value="Reload" priority="2" />
+      <Item value="List&lt;FakeProductViewModel&gt;" priority="0" />
+      <Item value="data" priority="1" />
+      <Item value="FakeProductViewModel" priority="0" />
+      <Item value="Price" priority="0" />
+      <Item value="ProductTitle" priority="0" />
+      <Item value="fkProductList" priority="3" />
+      <Item value="rptRepeater" priority="5" />
+      <Item value="return" priority="1" />
+      <Item value="Foreach" priority="0" />
+      <Item value="EventArgs`0" priority="0" />
+      <Item value="c" priority="0" />
+      <Item value="nestedRepeater" priority="2" />
+      <Item value="Controls" priority="0" />
+      <Item value="Repeater`0" priority="3" />
+      <Item value="Control`0" priority="2" />
+      <Item value="private" priority="3" />
+      <Item value="static" priority="4" />
+      <Item value="RepeaterItem`0" priority="0" />
+      <Item value="itemCollection" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="IEnumerable" priority="1" />
+      <Item value="repeaters" priority="0" />
+      <Item value="r" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.RepeaterItem">
+      <Item value="Controls" priority="8" />
+      <Item value="ItemIndex" priority="0" />
+      <Item value="DataItem" priority="0" />
+      <Item value="FindControl`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="4" />
+      <Item value="SelectMany`3" priority="1" />
+      <Item value="Select`2" priority="3" />
+      <Item value="OfType`1" priority="5" />
+      <Item value="ForEach`0" priority="0" />
+      <Item value="FirstOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="SelectMany`3" priority="0" />
+      <Item value="Add`0" priority="1" />
+      <Item value="Select`2" priority="0" />
+      <Item value="Count" priority="2" />
+      <Item value="ForEach`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.ControlCollection">
+      <Item value="AsQueryable`0" priority="0" />
+      <Item value="Add`0" priority="1" />
+      <Item value="OfType`1" priority="1" />
+      <Item value="ForEach`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.RepeaterItemCollection">
+      <Item value="Cast`1" priority="2" />
+      <Item value="ForEachControl`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Flib.Framework.Web.Controls.FlibRepeater">
+      <Item value="Controls" priority="2" />
+      <Item value="ForEach`1" priority="3" />
+      <Item value="Items" priority="0" />
+      <Item value="DataSource" priority="1" />
+      <Item value="DataBind`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Flib.Framework.Web.Tests.Controls.FakeUserControlWithList">
+      <Item value="FakeList" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="AreEqual`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Literal">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.Graph.IAssemblyScanner">
+      <Item value="AddAllTypesOf`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Flib.Framework.Web.Spike.BootStrapper">
+      <Item value="ConfigureDependencies`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.RepeaterItemEventArgs">
+      <Item value="Item" priority="2" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Flib.Framework.Web.Spike.FakeUserControls.FakeUILister">
+      <Item value="ProductTitle" priority="0" />
+      <Item value="Price" priority="0" />
+      <Item value="ReadStringResource`0" priority="0" />
+      <Item value="Reload" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Flib.Framework.Web.Spike.FakeViewModels.FakeProductViewModel">
+      <Item value="Price" priority="1" />
+      <Item value="ProductTitle" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Flib.Framework.Web.Spike.FakeUserControls.FakeProductList">
+      <Item value="DataSource" priority="0" />
+      <Item value="DataBind`0" priority="0" />
+      <Item value="Reload" priority="0" />
+      <Item value="ForEach" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Repeater">
+      <Item value="Items" priority="1" />
+      <Item value="ForEach`1" priority="1" />
+      <Item value="ForEach3`1" priority="0" />
+      <Item value="RecurseForEachRepeater`1" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/d:FakeViewModels/f:FakeProductViewModel.cs" caret="200" fromTop="8" />
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/d:Properties/f:AssemblyInfo.cs" caret="657" fromTop="15" />
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/f:Global.asax.cs" caret="238" fromTop="10" />
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/f:FlibPage.cs" caret="612" fromTop="6" />
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/d:FakePresenters/f:Presenter.cs" caret="257" fromTop="5" />
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/d:FakePresenters/f:ProductPresenter.cs" caret="241" fromTop="8" />
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/d:FakeViews/f:IFakeProductView.cs" caret="101" fromTop="3" />
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/d:FakeViews/f:IView.cs" caret="75" fromTop="2" />
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/d:FakeUserControls/f:FakeUILister.ascx" caret="354" fromTop="5" />
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/f:BootStrapper.cs" caret="0" fromTop="0" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Controls/f:FlibRepeaterTests.cs" caret="669" fromTop="15" />
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/d:FakeUserControls/f:FakeUILister.ascx.cs" caret="934" fromTop="27" />
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/f:FlibRepeaterSpike.aspx.cs" caret="1145" fromTop="0" />
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/d:FakeUserControls/f:FakeProductList.ascx.cs" caret="592" fromTop="11" />
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/d:FakeUserControls/f:FakeProductList.ascx" caret="0" fromTop="0" />
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/f:FlibRepeaterSpike.aspx" caret="0" fromTop="0" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="580" fromTop="17" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/f:FizzBuzzer.cs" caret="161" fromTop="9" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Controls/f:FlibRepeater.cs" caret="314" fromTop="12" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/f:FlibRepeaterSpike.aspx.cs" caret="1410" fromTop="19" />
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/f:FlibRepeaterSpike.aspx" caret="766" fromTop="12" />
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/f:FlibRepeaterSpike.aspx" caret="364" fromTop="2" />
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/d:FakeUserControls/f:FakeProductList.ascx" caret="159" fromTop="1" />
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/d:FakeUserControls/f:FakeProductList.ascx.cs" caret="811" fromTop="14" />
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/d:FakeUserControls/f:FakeProductList.ascx.cs" caret="706" fromTop="14" />
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/f:FlibRepeaterSpike.aspx.cs" caret="1311" fromTop="20" />
+      <File id="491F663B-61B4-4AA4-AE96-0C2A9B481BC8/d:FakeUserControls/f:FakeProductList.ascx.cs" caret="592" fromTop="8" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Controls/f:FlibRepeater.cs" caret="369" fromTop="7" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Controls/f:FlibRepeater.cs" caret="323" fromTop="5" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="241" fromTop="9" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="241" fromTop="18" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="241" fromTop="10" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="2019" fromTop="10" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="2019" fromTop="20" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="1498" fromTop="18" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="1498" fromTop="14" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="713" fromTop="12" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="2019" fromTop="33" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="1005" fromTop="10" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="1781" fromTop="35" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="1563" fromTop="28" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="1459" fromTop="25" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="1294" fromTop="21" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="859" fromTop="18" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="251" fromTop="6" />
+      <File id="B26E2547-617A-4F97-B8E0-052F393674DB/d:Controls/f:FlibRepeaterTests.cs" caret="960" fromTop="11" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Extensions/f:RepeaterExtensions.cs" caret="1251" fromTop="16" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/d:Controls/f:FlibRepeater.cs" caret="543" fromTop="19" />
+      <File id="B7825D16-959C-4213-9667-069EF83B5845/f:FizzBuzzer.cs" caret="161" fromTop="9" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

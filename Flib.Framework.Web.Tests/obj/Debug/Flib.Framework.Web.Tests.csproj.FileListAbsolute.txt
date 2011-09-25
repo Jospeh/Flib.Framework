@@ -1,0 +1,17 @@
+C:\Flib\Framework\Web\Flib.Framework.Web\Flib.Framework.Web.Tests\bin\Debug\Flib.Framework.Web.Tests.dll
+C:\Flib\Framework\Web\Flib.Framework.Web\Flib.Framework.Web.Tests\bin\Debug\Flib.Framework.Web.Tests.pdb
+C:\Flib\Framework\Web\Flib.Framework.Web\Flib.Framework.Web.Tests\bin\Debug\Flib.Framework.Web.dll
+C:\Flib\Framework\Web\Flib.Framework.Web\Flib.Framework.Web.Tests\bin\Debug\nunit.framework.dll
+C:\Flib\Framework\Web\Flib.Framework.Web\Flib.Framework.Web.Tests\bin\Debug\Flib.Framework.Web.pdb
+C:\Flib\Framework\Web\Flib.Framework.Web\Flib.Framework.Web.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Flib\Framework\Web\Flib.Framework.Web\Flib.Framework.Web.Tests\obj\Debug\Flib.Framework.Web.Tests.dll
+C:\Flib\Framework\Web\Flib.Framework.Web\Flib.Framework.Web.Tests\obj\Debug\Flib.Framework.Web.Tests.pdb
+C:\Flib\Framework\Flib.Framework\Flib.Framework.Web.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Flib\Framework\Flib.Framework\Flib.Framework.Web.Tests\obj\Debug\Flib.Framework.Web.Tests.dll
+C:\Flib\Framework\Flib.Framework\Flib.Framework.Web.Tests\obj\Debug\Flib.Framework.Web.Tests.pdb
+C:\Flib\Framework\Flib.Framework\Flib.Framework.Web.Tests\bin\Debug\Flib.Framework.Web.Tests.dll
+C:\Flib\Framework\Flib.Framework\Flib.Framework.Web.Tests\bin\Debug\Flib.Framework.Web.Tests.pdb
+C:\Flib\Framework\Flib.Framework\Flib.Framework.Web.Tests\bin\Debug\Flib.Framework.Util.dll
+C:\Flib\Framework\Flib.Framework\Flib.Framework.Web.Tests\bin\Debug\Flib.Framework.Web.dll
+C:\Flib\Framework\Flib.Framework\Flib.Framework.Web.Tests\bin\Debug\Flib.Framework.Util.pdb
+C:\Flib\Framework\Flib.Framework\Flib.Framework.Web.Tests\bin\Debug\Flib.Framework.Web.pdb
